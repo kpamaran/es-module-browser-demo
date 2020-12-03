@@ -1,0 +1,13 @@
+body {
+    font-family: Helvetica, sans-serif;
+    font-size: 2rem;
+}
+
+button {
+    padding: 1rem;
+    font-size: 1rem;
+}
+
+.log-entry {
+    display: block;
+}
